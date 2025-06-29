@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7bb4ea5d-c83a-4461-936e-098dd8d6fbb1)# Streamlining-Ticket-Assignment-for-Efficient-Support-Operations
 ### Streamlining-Ticket-Assignment-for-Efficient-Support-Operations
 ServiceNow-based solution designed to automate and optimize the assignment of support tickets. 
 
@@ -44,7 +43,7 @@ By leveraging ServiceNow's powerful platform features, this solution improves fi
 
 ## 🤝 Contributors
 
-- Team ID : LTVIP2025TMID28568
+Team ID : LTVIP2025TMID28568
  
 Team Size : 4
 
