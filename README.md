@@ -41,7 +41,9 @@ By leveraging ServiceNow's powerful platform features, this solution improves fi
 - Minimizes ticket misrouting and manual intervention
 - Fully customizable and scalable within ServiceNow
 
-## 🤝 Contributors
+---  
+
+### 🤝 Contributors
 
 Team ID : LTVIP2025TMID28568
  
